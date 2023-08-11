@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\aende\.nuget\packages\elasticlog\1.2.2\lib\netstandard2.0\ElasticLog.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\aende\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\7.0.0\lib\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.21\Microsoft.AspNetCore.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\aende\.nuget\packages\microsoft.extensions.options\7.0.0\lib\net6.0\Microsoft.Extensions.Options.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.21\Microsoft.AspNetCore.Mvc.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\aende\.nuget\packages\nlog\5.2.3\lib\netstandard2.0\NLog.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\aende\.nuget\packages\microsoft.extensions.dependencyinjection\7.0.0\lib\net6.0\Microsoft.Extensions.DependencyInjection.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/FileVerbosityLevel/@EntryValue">Minimal</s:String>
+	
+	
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=xponder/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

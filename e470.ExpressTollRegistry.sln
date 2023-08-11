@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e470.ExpressTollRegistry.API", "e470.ExpressTollRegistry.API\e470.ExpressTollRegistry.API.csproj", "{8A3B60C1-CB3F-4A34-A3E6-D901D537EDE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e470.ExpressTollRegistry.App", "e470.ExpressTollRegistry.App\e470.ExpressTollRegistry.App.csproj", "{C54E4925-23D8-46F4-A859-AD8F80EA792B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e470.ExpressTollRegistry.Entities", "e470.ExpressTollRegistry.Entities\e470.ExpressTollRegistry.Entities.csproj", "{9819B390-0F2C-41BE-9A4B-1991CF5D7B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A3B60C1-CB3F-4A34-A3E6-D901D537EDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3B60C1-CB3F-4A34-A3E6-D901D537EDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3B60C1-CB3F-4A34-A3E6-D901D537EDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3B60C1-CB3F-4A34-A3E6-D901D537EDE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54E4925-23D8-46F4-A859-AD8F80EA792B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54E4925-23D8-46F4-A859-AD8F80EA792B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54E4925-23D8-46F4-A859-AD8F80EA792B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54E4925-23D8-46F4-A859-AD8F80EA792B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9819B390-0F2C-41BE-9A4B-1991CF5D7B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9819B390-0F2C-41BE-9A4B-1991CF5D7B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9819B390-0F2C-41BE-9A4B-1991CF5D7B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9819B390-0F2C-41BE-9A4B-1991CF5D7B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
